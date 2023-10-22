@@ -1,4 +1,3 @@
-//Brandon Couloute
 
 #include <iostream>  // For standard input-output
 #include <cstdio>     // For printf
